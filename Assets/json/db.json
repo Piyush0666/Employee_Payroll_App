@@ -36,7 +36,7 @@
             "id": 1604589699566,
             "profileUrl": "../assets/profile-images/Ellipse -3.png"
         },
-        
+
         {
             "name": "test",
             "gender": "male",
@@ -50,6 +50,4 @@
             "profileUrl": "../assets/profile-images/Ellipse -3.png"
         }
     ]
-
-
 }
