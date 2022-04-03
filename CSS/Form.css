@@ -109,7 +109,7 @@ label {
 }
 
 .profile-radio-content > label{
-    display: flex;
+    /* display: flex; */
     flex-direction: row;
     align-items: center;
 }
@@ -130,6 +130,7 @@ select {
     color: #42515f;
     background-color: transparent;
 }
+
 .buttonParent {
     display: flex;
     margin-bottom: 10px;
@@ -201,4 +202,5 @@ select {
         flex-direction: column-reverse;
         align-items: flex-start;
     }
+    
 }
