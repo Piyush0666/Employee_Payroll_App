@@ -79,5 +79,4 @@ class EmployeePayrollData {
             ", date : " + this.startDate + ", profilepic : " + this._profilePic + ", department : " + this._department + ", note : " + this._note;
 
     }
-
 }
